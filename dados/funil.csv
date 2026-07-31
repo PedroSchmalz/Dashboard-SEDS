@@ -1,0 +1,8 @@
+data_ref,municipio,n_elegivel,n_tentativa,n_contato,n_aceite,n_diag_fim,n_pdf_pactuado
+2026-06-30,São Paulo,5200,4680,3510,2630,2104,1578
+2026-06-30,Guarulhos,1320,1122,808,566,430,301
+2026-06-30,Campinas,1080,972,748,598,490,392
+2026-06-30,São Bernardo do Campo,820,697,523,392,314,251
+2026-06-30,Osasco,710,604,447,318,251,188
+2026-06-30,Barueri,420,365,284,219,176,139
+2026-06-30,São Vicente,510,428,326,238,187,142

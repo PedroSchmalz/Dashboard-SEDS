@@ -1,0 +1,41 @@
+municipio,etapa,p25,p50,p75,n
+São Paulo,tentativa_aceite,3,7,14,2630
+São Paulo,aceite_diag_fim,5,11,20,2104
+São Paulo,aceite_pactuacao,12,24,39,1578
+São Paulo,diag_fim_pactuacao,4,9,16,1578
+Guarulhos,tentativa_aceite,4,9,17,566
+Guarulhos,aceite_diag_fim,6,13,23,430
+Guarulhos,aceite_pactuacao,15,29,46,301
+Guarulhos,diag_fim_pactuacao,5,11,19,301
+Campinas,tentativa_aceite,2,6,12,598
+Campinas,aceite_diag_fim,4,9,17,490
+Campinas,aceite_pactuacao,10,21,34,392
+Campinas,diag_fim_pactuacao,3,8,14,392
+São Bernardo do Campo,tentativa_aceite,3,8,15,392
+São Bernardo do Campo,aceite_diag_fim,5,12,21,314
+São Bernardo do Campo,aceite_pactuacao,13,26,41,251
+São Bernardo do Campo,diag_fim_pactuacao,4,10,18,251
+Santo André,tentativa_aceite,2,6,13,412
+Santo André,aceite_diag_fim,4,10,18,338
+Santo André,aceite_pactuacao,11,22,36,287
+Santo André,diag_fim_pactuacao,3,8,15,287
+Osasco,tentativa_aceite,5,11,20,275
+Osasco,aceite_diag_fim,7,15,26,220
+Osasco,aceite_pactuacao,18,34,52,143
+Osasco,diag_fim_pactuacao,6,13,22,143
+Sorocaba,tentativa_aceite,2,7,14,359
+Sorocaba,aceite_diag_fim,5,10,19,305
+Sorocaba,aceite_pactuacao,12,23,38,259
+Sorocaba,diag_fim_pactuacao,4,9,16,259
+Ribeirão Preto,tentativa_aceite,4,9,16,282
+Ribeirão Preto,aceite_diag_fim,6,13,22,226
+Ribeirão Preto,aceite_pactuacao,15,28,44,181
+Ribeirão Preto,diag_fim_pactuacao,5,11,19,181
+Santos,tentativa_aceite,2,5,10,264
+Santos,aceite_diag_fim,3,8,15,224
+Santos,aceite_pactuacao,9,18,30,202
+Santos,diag_fim_pactuacao,3,7,12,202
+São José dos Campos,tentativa_aceite,5,10,19,176
+São José dos Campos,aceite_diag_fim,7,14,25,141
+São José dos Campos,aceite_pactuacao,17,32,50,99
+São José dos Campos,diag_fim_pactuacao,6,12,21,99

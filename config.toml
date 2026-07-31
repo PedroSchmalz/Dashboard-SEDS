@@ -1,0 +1,16 @@
+# Tema conforme MANUAL DE IDENTIDADE VISUAL — Governo do Estado de São Paulo
+# GESP v1.6, abr 2023, p. 10 (paleta de cores)
+
+[theme]
+base = "light"
+primaryColor = "#FF161F"              # vermelho institucional — PANTONE 485 C
+backgroundColor = "#FFFFFF"           # branco
+secondaryBackgroundColor = "#F2F2F2"  # cinza claro (derivado de K25 #BFBFBF)
+textColor = "#000000"                 # preto — PANTONE BLACK
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

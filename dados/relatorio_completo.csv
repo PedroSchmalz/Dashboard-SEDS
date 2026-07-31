@@ -1,0 +1,8 @@
+municipio,n_familias,n_pessoas,n_politicas,n_modulos,n_acoes,n_cursos,n_atividades,n_concluidas,n_andamento,n_atrasadas,n_nao_iniciadas,n_pdfs_pactuados,n_resp_pessoa,n_resp_estado,n_resp_municipio,n_desc_preenchida,n_agentes,mediana_dias_status,mediana_dias_pactuacao_atividade,n_status_sem_atualizacao,n_responsavel_ausente,n_agente_ausente
+São Paulo,2630,4045,18,5,4260,38,8460,3215,2380,1190,1375,1578,2860,1180,4120,7580,164,18,12,286,173,94
+Guarulhos,566,874,15,5,980,21,2140,728,611,356,385,301,702,336,918,1845,51,22,15,91,54,28
+Campinas,598,922,16,5,1040,25,1890,756,529,251,294,392,655,308,812,1698,47,16,11,62,39,21
+São Bernardo do Campo,392,607,14,5,730,18,1420,511,398,226,240,251,484,245,646,1244,36,24,17,55,42,19
+Osasco,318,493,13,4,605,15,1190,405,345,204,201,188,401,207,538,1023,31,26,18,49,36,17
+Barueri,219,338,12,4,382,12,730,292,211,103,104,139,251,138,341,664,22,15,10,23,18,9
+São Vicente,238,369,13,4,441,14,890,318,251,154,142,142,296,156,398,768,27,29,20,41,29,13

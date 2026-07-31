@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <style>
+    html, body, iframe { width: 100%; height: 100%; margin: 0; border: 0; overflow: hidden; }
+  </style>
+</head>
+<body>
+  <iframe id="mapa" title="Mapa municipal"></iframe>
+  <script>
+    const mapa = document.getElementById("mapa");
+
+    function enviar(tipo, dados = {}) {
+      window.parent.postMessage({ isStreamlitMessage: true, type: tipo, ...dados }, "*");
+    }
+
+    window.addEventListener("message", (evento) => {
+      const mensagem = evento.data || {};
+      if (mensagem.type === "streamlit:render") {
+        mapa.srcdoc = mensagem.args.html;
+        enviar("streamlit:setFrameHeight", { height: mensagem.args.height || 590 });
+      }
+      if (mensagem.type === "municipio-selecionado") {
+        enviar("streamlit:setComponentValue", { value: mensagem.municipio });
+      }
+    });
+
+    enviar("streamlit:componentReady", { apiVersion: 1 });
+  </script>
+</body>
+</html>

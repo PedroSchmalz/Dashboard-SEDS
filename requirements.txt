@@ -1,0 +1,29 @@
+# Dashboard em Streamlit
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+xlsxwriter
+sqlalchemy
+python-dotenv
+pyarrow
+
+# Tabelas, imagens e exportação
+streamlit-aggrid
+kaleido
+pillow
+
+# APIs, validação e logs
+requests
+pydantic
+loguru
+watchdog
+
+# Processamento adicional de dados
+duckdb
+polars
+
+# Desenvolvimento e testes
+pytest
+ruff
